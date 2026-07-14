@@ -57,7 +57,7 @@ I build fast without cutting corners on architecture — directing AI tooling fo
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/hamza-abid-7a07a019a/))
 [![Website](https://img.shields.io/badge/NestedFusion-000000?style=flat-square&logo=vercel&logoColor=white)](https://nestedfusion.com)
 
 <p align="center"><i>Open to conversations on AI agent architecture, automation strategy, and full-stack builds.</i></p>
